@@ -14,7 +14,7 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Karachi
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -24,10 +24,10 @@ title: Qasim Ali Zahid                          # the main title
 tagline: Full Stack Ruby on Rails Developer   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Experienced Ruby on Rails Developer with a demonstrated history of working in the information technology and services industry. Skilled in Ruby on Rails, Javascript, JQuery, Bootstrap, , C++, Python, and SQL. Strong engineering professional, graduated from the University Of Sargodha, Sargodha.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://my_first_doc.github.io'
 
 github:
   username: iamqasimali             # change to your github username
