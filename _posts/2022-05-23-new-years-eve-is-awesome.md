@@ -1,12 +1,15 @@
 ---
-layout: post
-# title:  "Welcome to Jekyll!"
 title: Qasim Ali
-date: 2022-05-23 12:00:00 -500
-categoriies: [severs,dell, supermicro]
-tags: [homelab, hardware]
+date: 2022-05-23 22:00:00 +05:00
+tags:
+- homelab
+- hardware
+layout: post
+categoriies:
+- severs
+- dell
+- supermicro
 ---
-
 
 # Qasim Ali Zahid
 I have 5+ years of development experience with Ruby on Rails and React js. I have been working in software industry working on health related websites along with hr management, Limos-pay and payroll portals. Most of stuff related to the Ruby/Rails development is familiar to me. Currently I I am working on a product related to machine learning which is not only getting appreciation locally but in international market as well. I have a good command of deployment tools and administrating servers. I'm also well-versed in JavaScript/CoffeeScript, AngularJS, Node js.
